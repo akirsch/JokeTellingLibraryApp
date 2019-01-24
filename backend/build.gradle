@@ -33,3 +33,6 @@ dependencies {
     implementation 'com.google.api-client:google-api-client:1.23.0'
     implementation 'com.google.http-client:google-http-client-android:1.23.0'
 }
+
+//Add your path here
+appengine.tools.cloudSdkHome="/Users/juandgaines/Documents/Udacity/Android Developer Nanodegree/Gradle for Android and Java/ud867-master/FinalProject/google-cloud-sdk"
